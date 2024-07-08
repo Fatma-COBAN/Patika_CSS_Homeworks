@@ -1,0 +1,42 @@
+.big {
+    text-align: center ;
+    margin: 0px 5%;
+    display: flex;
+   
+}
+
+.box1 {
+    background-color: #7EE5DA ; 
+    text-align: center ;
+    margin-right: 1px;
+    padding: 10px 69px 0px;
+    height: 65px;
+    width: 35%;
+}
+
+.box2 {
+    background-color: #70CCC2 ; 
+    text-align: center ;
+    margin-right: 1px;
+    padding: 10px 20px 0px;
+    height: 65px;
+    font-size: 13px;
+    width: 22%;
+}
+
+.box3 {
+    background-color: #62B3AA ; 
+    text-align: center ;
+    padding: 0px 56px 0px;
+    height: 75px;
+    font-size: 13px;
+    width: 45%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    width: 30%;
+  }
