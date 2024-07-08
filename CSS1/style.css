@@ -1,0 +1,53 @@
+body {
+    background-color: #fce3e3;
+    font-size: x-large;
+    margin:0px auto;
+    width:auto;
+    text-align: center
+}
+
+.htitle {
+    color: #facad0;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.btitle ,h3{
+    color: #610C9F;
+    font-size: xxx-large;
+}
+.ftitle {
+    color: #abb1bc;
+    font-size: xx-large;
+}
+
+p, li {
+    color: rgb(158, 3, 147);
+    font-size: 30px;
+}
+
+.flist {
+    color: black;
+}
+
+.one {
+    width: 280px;
+    height: 40px;
+    float: left;
+    background-color: #8f5acb;
+    margin: 10px;
+    border-radius: 5px;
+    padding-bottom: 30px ;
+}
+
+.clear {
+    clear: both;
+}
+
+header { 
+    background-color: #e3c7ea;
+}
+
+.footer {
+    background-color: #8f5acb;
+}
